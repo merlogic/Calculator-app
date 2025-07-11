@@ -20,31 +20,30 @@ This is a modern and responsive calculator built using React Native. The app sup
 - Expo (optional)
 - Custom theming and styles
 
+## Screenshots
+
+### Light Mode
+![Light Mode](screenshots/lightmode.jpeg)
+
+### Dark Mode
+![Dark Mode](screenshots/darkmode.jpeg)
 
 ## Installation
 
 1. Clone the repository:
-
-``bash
    git clone https://github.com/yourusername/calculator-app.git
 
 2. Navigate to the project folder:
-   
-``bash
    cd calculator-app
    
 3. Install dependencies: 
-
-``bash 
    npm install
    
 4. Run the app:
-``bash
    npx expo start
+   
 /* Ensure that you have Expo CLI installed globally. You can install it using:
-
-``bash
-  npm install -g expo-cli
+     npm install -g expo-cli
 
 
 In the output, you'll find options to open the app in a
