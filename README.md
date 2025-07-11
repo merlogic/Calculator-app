@@ -1,20 +1,51 @@
-# Welcome to your Expo app 👋
+# Calculator App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a modern and responsive calculator built using React Native. The app supports light and dark themes, a real-time clock display, and animated calculation history. It performs basic arithmetic operations with a clean and user-friendly interface.
 
-## Get started
+## Features
 
-1. Install dependencies
+- Light and Dark Mode toggle
+- Real-time date and time display
+- Calculation history with animated transitions
+- Aesthetic and responsive UI design
+- Basic arithmetic operations: addition, subtraction, multiplication, division, and decimal input
+- Clear, Delete, and Equals functions
 
-   ```bash
+## Technologies Used
+
+- React Native
+- TypeScript
+- React Native Reanimated
+- JavaScript (ES6+)
+- Expo (optional)
+- Custom theming and styles
+
+
+## Installation
+
+1. Clone the repository:
+
+``bash
+   git clone https://github.com/yourusername/calculator-app.git
+
+2. Navigate to the project folder:
+   
+``bash
+   cd calculator-app
+   
+3. Install dependencies: 
+
+``bash 
    npm install
-   ```
-
-2. Start the app
-
-   ```bash
+   
+4. Run the app:
+``bash
    npx expo start
-   ```
+/* Ensure that you have Expo CLI installed globally. You can install it using:
+
+``bash
+  npm install -g expo-cli
+
 
 In the output, you'll find options to open the app in a
 
@@ -32,8 +63,6 @@ When you're ready, run:
 ```bash
 npm run reset-project
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## Learn more
 
