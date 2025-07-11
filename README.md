@@ -23,10 +23,10 @@ This is a modern and responsive calculator built using React Native. The app sup
 ## Screenshots
 
 ### Light Mode
-![Light Mode](screenshots/lightmode.jpeg)
+![Light Mode](screenshots/lightmode.jpg)
 
 ### Dark Mode
-![Dark Mode](screenshots/darkmode.jpeg)
+![Dark Mode](screenshots/darkmode.jpg)
 
 ## Installation
 
